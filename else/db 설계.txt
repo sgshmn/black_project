@@ -1,0 +1,69 @@
+일단 써본거지 이 내용 그대로 하지 않았어요
+
+play_outside (사용자_비밀번호)
+
+
+체험 테이블 progs
+	체험명 pk prog
+	체험 대표 사진 poster
+	주소 loc
+	참가비 price
+	참가 나이 age
+	참가 인원 totalnum
+	테마 theme fk
+	별점 star
+	프로그램 좋아요 proglike
+
+테마 테이블 themes
+	테마 pk theme
+
+사용자 정보 테이블 users
+	아이디 pk id
+	비밀번호 pw
+	닉네임 unique nick
+	프로필 사진 portrait
+
+프로그램 계획 테이블 plans (체험명이 같아도 다른날이면 다르게 들어간다)
+	계획 인덱스 pk plan
+	체험명 fk (체험 테이블) prog
+	체험하는 날짜 plandate
+	예약시작날짜 bookstart
+	예약끝날짜 bookend
+
+검색 테이블 finds
+	검색 인덱스 pk find
+	검색한 내용 findtxt
+	검색한 닉네임 fk nick
+	검색한 시간 findtime
+
+관심 테이블 favs (favorites)
+	관심 인덱스 pk fav
+	닉네임 fk (사용자 정보 테이블) nick
+	프로그램 계획 fk (프로그램 계획 테이블) plan
+	관심 누른 시간 favtime	
+
+예약 테이블 books
+	예약 인덱스 pk book
+	닉네임 fk (사용자 정보 테이블) nick
+	프로그램 계획 fk (프로그램 계획 테이블) plan
+	
+후기 테이블 (같은 사람이 같은 장소 후기를 쓰더라도 다른 날짜에 올리면 다르다) revs
+	후기 인덱스 pk rev
+	닉네임 fk (사용자 정보 테이블) nick
+	체험명 fk (체험 테이블) prog
+	후기 내용 경로 rtp (설명 : review text path)
+	체험한 날짜 diddate
+	후기 쓴 날짜 revdate
+	후기 좋아요 revlike
+
+사용자가 올린 사진 테이블 imgs
+	사진 인덱스 pk img
+	닉네임 fk (사용자 정보 테이블) nick
+	체험명 fk (체험 테이블) prog
+	리뷰 사진 경로 ip (설명 : img path)
+
+리뷰 댓글 테이블 ments
+	댓글 인덱스 pk ment
+	리뷰 인덱스 fk rev
+	닉네임 fk nick
+	내용 menttxt

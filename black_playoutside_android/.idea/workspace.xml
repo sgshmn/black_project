@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="NONE" />
+  </component>
+  <component name="ChangeListManager">
+<<<<<<< HEAD
+    <list default="true" id="0d1c44f7-4cd7-471a-9dfd-1282f1e34828" name="Changes" comment="" />
+=======
+    <list default="true" id="98574ab7-e0db-4e3e-9697-fd53a16c733f" name="Changes" comment="" />
+>>>>>>> 69d6bec1303c1f1eb0ebe11bee87ef1723a741b5
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+<<<<<<< HEAD
+  <component name="ProjectId" id="2DpYaQHte6EduU332vt1A3OWwrY" />
+=======
+  <component name="ProjectId" id="2E45E2MEZO67bhYvwTILL1zJuM7" />
+>>>>>>> 69d6bec1303c1f1eb0ebe11bee87ef1723a741b5
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="RunOnceActivity.cidr.known.project.marker" value="true" />
+    <property name="cidr.known.project.marker" value="true" />
+<<<<<<< HEAD
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/Naga000" />
+=======
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+>>>>>>> 69d6bec1303c1f1eb0ebe11bee87ef1723a741b5
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+<<<<<<< HEAD
+      <changelist id="0d1c44f7-4cd7-471a-9dfd-1282f1e34828" name="Changes" comment="" />
+      <created>1661397555853</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1661397555853</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="oldMeFiltersMigrated" value="true" />
+  </component>
+=======
+      <changelist id="98574ab7-e0db-4e3e-9697-fd53a16c733f" name="Changes" comment="" />
+      <created>1661841900519</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1661841900519</updated>
+    </task>
+    <servers />
+  </component>
+>>>>>>> 69d6bec1303c1f1eb0ebe11bee87ef1723a741b5
+</project>

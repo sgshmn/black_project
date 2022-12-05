@@ -1,0 +1,143 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/Users/gjaischool-56/black_project/black_playoutside_android/Naga000/app/src/main/res/layout/activity_change_profile.xml" value="0.24270833333333333" />
+        <entry key="..\:/Users/gjaischool-56/black_project/black_playoutside_android/Naga000/app/src/main/res/layout/frag_a.xml" value="0.36614583333333334" />
+        <entry key="..\:/Users/gjaischool-56/black_project/black_playoutside_android/Naga000/app/src/main/res/layout/frag_d.xml" value="0.36614583333333334" />
+        <entry key="..\:/Users/gjaischool-56/black_project/black_playoutside_android/Naga000/app/src/main/res/layout/maintemxml.xml" value="0.36614583333333334" />
+        <entry key="..\:/Users/gjaischool-57/Desktop/gitTeam/Naga000/app/src/main/res/layout/activity_change_profile.xml" value="0.3619791666666667" />
+        <entry key="..\:/Users/gjaischool-57/Desktop/gitTeam/Naga000/app/src/main/res/layout/activity_intro.xml" value="0.3619791666666667" />
+        <entry key="..\:/Users/gjaischool-57/Desktop/gitTeam/Naga000/app/src/main/res/layout/activity_multi_image2.xml" value="0.3619791666666667" />
+        <entry key="..\:/Users/gjaischool-57/Desktop/gitTeam/Naga000/app/src/main/res/layout/activity_postscript.xml" value="0.3619791666666667" />
+        <entry key="..\:/Users/gjaischool-57/Desktop/gitTeam/Naga000/app/src/main/res/layout/activity_todo_list_content.xml" value="0.3619791666666667" />
+        <entry key="..\:/Users/gjaischool-57/Desktop/gitTeam/Naga000/app/src/main/res/layout/multi_image_item.xml" value="0.3619791666666667" />
+        <entry key="..\:/Users/gjaischool-57/Desktop/gitTeam/Naga000/app/src/main/res/layout/postscript_content.xml" value="0.3619791666666667" />
+        <entry key="..\:/Users/gjaischool-75/Desktop/gitTeam/black_playoutside_android/Naga000/app/src/main/res/layout/activity_change_profile.xml" value="0.34601449275362317" />
+        <entry key="..\:/Users/gjaischool-75/Desktop/gitTeam/black_playoutside_android/Naga000/app/src/main/res/layout/activity_intro.xml" value="0.24682971014492755" />
+        <entry key="..\:/Users/gjaischool-75/Desktop/gitTeam/black_playoutside_android/Naga000/app/src/main/res/layout/activity_join.xml" value="0.24682971014492755" />
+        <entry key="..\:/Users/gjaischool-75/Desktop/gitTeam/black_playoutside_android/Naga000/app/src/main/res/layout/activity_list1xml.xml" value="0.24682971014492755" />
+        <entry key="..\:/Users/gjaischool-75/Desktop/gitTeam/black_playoutside_android/Naga000/app/src/main/res/layout/activity_list2xml.xml" value="0.24682971014492755" />
+        <entry key="..\:/Users/gjaischool-75/Desktop/gitTeam/black_playoutside_android/Naga000/app/src/main/res/layout/activity_login.xml" value="0.152" />
+        <entry key="..\:/Users/gjaischool-75/Desktop/gitTeam/black_playoutside_android/Naga000/app/src/main/res/layout/activity_main.xml" value="0.24682971014492755" />
+        <entry key="..\:/Users/gjaischool-75/Desktop/gitTeam/black_playoutside_android/Naga000/app/src/main/res/layout/activity_multi_image2.xml" value="0.34601449275362317" />
+        <entry key="..\:/Users/gjaischool-75/Desktop/gitTeam/black_playoutside_android/Naga000/app/src/main/res/layout/activity_postscript.xml" value="0.24682971014492755" />
+        <entry key="..\:/Users/gjaischool-75/Desktop/gitTeam/black_playoutside_android/Naga000/app/src/main/res/layout/activity_todo_list_content.xml" value="0.24682971014492755" />
+        <entry key="..\:/Users/gjaischool-75/Desktop/gitTeam/black_playoutside_android/Naga000/app/src/main/res/layout/calendar_cell.xml" value="0.24682971014492755" />
+        <entry key="..\:/Users/gjaischool-75/Desktop/gitTeam/black_playoutside_android/Naga000/app/src/main/res/layout/do_list.xml" value="0.24682971014492755" />
+        <entry key="..\:/Users/gjaischool-75/Desktop/gitTeam/black_playoutside_android/Naga000/app/src/main/res/layout/frag_a.xml" value="0.24682971014492755" />
+        <entry key="..\:/Users/gjaischool-75/Desktop/gitTeam/black_playoutside_android/Naga000/app/src/main/res/layout/frag_b.xml" value="0.23278985507246377" />
+        <entry key="..\:/Users/gjaischool-75/Desktop/gitTeam/black_playoutside_android/Naga000/app/src/main/res/layout/frag_c.xml" value="0.34601449275362317" />
+        <entry key="..\:/Users/gjaischool-75/Desktop/gitTeam/black_playoutside_android/Naga000/app/src/main/res/layout/frag_d.xml" value="0.24682971014492755" />
+        <entry key="..\:/Users/gjaischool-75/Desktop/gitTeam/black_playoutside_android/Naga000/app/src/main/res/layout/layout_btn_search.xml" value="0.24682971014492755" />
+        <entry key="..\:/Users/gjaischool-75/Desktop/gitTeam/black_playoutside_android/Naga000/app/src/main/res/layout/layout_chehum10.xml" value="0.24682971014492755" />
+        <entry key="..\:/Users/gjaischool-75/Desktop/gitTeam/black_playoutside_android/Naga000/app/src/main/res/layout/layout_detail.xml" value="0.34601449275362317" />
+        <entry key="..\:/Users/gjaischool-75/Desktop/gitTeam/black_playoutside_android/Naga000/app/src/main/res/layout/list1xml.xml" value="0.24682971014492755" />
+        <entry key="..\:/Users/gjaischool-75/Desktop/gitTeam/black_playoutside_android/Naga000/app/src/main/res/layout/list2.xml" value="0.24682971014492755" />
+        <entry key="..\:/Users/gjaischool-75/Desktop/gitTeam/black_playoutside_android/Naga000/app/src/main/res/layout/listview_item.xml" value="0.24682971014492755" />
+        <entry key="..\:/Users/gjaischool-75/Desktop/gitTeam/black_playoutside_android/Naga000/app/src/main/res/layout/maintemxml.xml" value="0.24682971014492755" />
+        <entry key="..\:/Users/gjaischool-75/Desktop/gitTeam/black_playoutside_android/Naga000/app/src/main/res/layout/mainxmltop10.xml" value="0.24682971014492755" />
+        <entry key="..\:/Users/gjaischool-75/Desktop/gitTeam/black_playoutside_android/Naga000/app/src/main/res/layout/multi_image_item.xml" value="0.34601449275362317" />
+        <entry key="..\:/Users/gjaischool-75/Desktop/gitTeam/black_playoutside_android/Naga000/app/src/main/res/layout/postscript_content.xml" value="0.34601449275362317" />
+        <entry key="..\:/Users/gjaischool-75/Desktop/gitTeam/black_playoutside_android/Naga000/app/src/main/res/layout/review_view.xml" value="0.24682971014492755" />
+        <entry key="..\:/Users/gjaischool-75/Desktop/gitTeam/black_playoutside_android/Naga000/app/src/main/res/layout/simple_list_item_1.xml" value="0.34601449275362317" />
+        <entry key="..\:/Users/gjaischool61/AndroidStudioProjects/Naga0818/app/src/main/res/drawable-v24/ic_launcher_foreground.xml" value="0.181" />
+        <entry key="..\:/Users/gjaischool61/AndroidStudioProjects/Naga0818/app/src/main/res/drawable/gradient.xml" value="0.1835" />
+        <entry key="..\:/Users/gjaischool61/AndroidStudioProjects/Naga0818/app/src/main/res/layout/activity_intro.xml" value="0.21197916666666666" />
+        <entry key="..\:/Users/gjaischool61/AndroidStudioProjects/Naga0818/app/src/main/res/layout/activity_join.xml" value="0.2125" />
+        <entry key="..\:/Users/gjaischool61/AndroidStudioProjects/Naga0818/app/src/main/res/layout/activity_list1xml.xml" value="0.23489583333333333" />
+        <entry key="..\:/Users/gjaischool61/AndroidStudioProjects/Naga0818/app/src/main/res/layout/activity_list2xml.xml" value="0.23489583333333333" />
+        <entry key="..\:/Users/gjaischool61/AndroidStudioProjects/Naga0818/app/src/main/res/layout/activity_login.xml" value="0.2125" />
+        <entry key="..\:/Users/gjaischool61/AndroidStudioProjects/Naga0818/app/src/main/res/layout/activity_main.xml" value="0.225" />
+        <entry key="..\:/Users/gjaischool61/AndroidStudioProjects/Naga0818/app/src/main/res/layout/frag_a.xml" value="0.24947916666666667" />
+        <entry key="..\:/Users/gjaischool61/AndroidStudioProjects/Naga0818/app/src/main/res/layout/frag_b.xml" value="0.23489583333333333" />
+        <entry key="..\:/Users/gjaischool61/AndroidStudioProjects/Naga0818/app/src/main/res/layout/frag_c.xml" value="0.23489583333333333" />
+        <entry key="..\:/Users/gjaischool61/AndroidStudioProjects/Naga0818/app/src/main/res/layout/frag_d.xml" value="0.2" />
+        <entry key="..\:/Users/gjaischool61/AndroidStudioProjects/Naga0818/app/src/main/res/layout/layout_btn_search.xml" value="0.20923913043478262" />
+        <entry key="..\:/Users/gjaischool61/AndroidStudioProjects/Naga0818/app/src/main/res/layout/layout_sample2.xml" value="0.20923913043478262" />
+        <entry key="..\:/Users/gjaischool61/AndroidStudioProjects/Naga0818/app/src/main/res/layout/layouttest.xml" value="0.20923913043478262" />
+        <entry key="..\:/Users/gjaischool61/AndroidStudioProjects/Naga0818/app/src/main/res/layout/list1xml.xml" value="0.23489583333333333" />
+        <entry key="..\:/Users/gjaischool61/AndroidStudioProjects/Naga0818/app/src/main/res/layout/list2.xml" value="0.23489583333333333" />
+        <entry key="..\:/Users/gjaischool61/AndroidStudioProjects/Naga0818/app/src/main/res/layout/mainone.xml" value="0.21041666666666667" />
+        <entry key="..\:/Users/gjaischool61/AndroidStudioProjects/Naga0818/app/src/main/res/layout/mypage.xml" value="0.21041666666666667" />
+        <entry key="..\:/Users/gjaischool61/AndroidStudioProjects/Naga0818/app/src/main/res/layout/review.xml" value="0.21041666666666667" />
+        <entry key="..\:/Users/gjaischool61/AndroidStudioProjects/Naga0818/app/src/main/res/layout/schedule.xml" value="0.21041666666666667" />
+        <entry key="..\:/Users/gjaischool61/AndroidStudioProjects/Naga0818/app/src/main/res/layout/search.xml" value="0.21041666666666667" />
+        <entry key="..\:/Users/gjaischool61/AndroidStudioProjects/Naga0818/app/src/main/res/menu/navibar.xml" value="0.22395833333333334" />
+        <entry key="..\:/Users/gjaischool61/AndroidStudioProjects/Naga0818/app/src/main/res/menu/navivar.xml" value="0.536" />
+        <entry key="..\:/Users/gjaischool61/Desktop/playouside/Naga000/app/src/main/res/drawable/round.xml" value="0.2075" />
+        <entry key="..\:/Users/gjaischool61/Desktop/playouside/Naga000/app/src/main/res/layout/activity_change_profile.xml" value="0.24947916666666667" />
+        <entry key="..\:/Users/gjaischool61/Desktop/playouside/Naga000/app/src/main/res/layout/activity_intro.xml" value="0.21195652173913043" />
+        <entry key="..\:/Users/gjaischool61/Desktop/playouside/Naga000/app/src/main/res/layout/activity_join.xml" value="0.24947916666666667" />
+        <entry key="..\:/Users/gjaischool61/Desktop/playouside/Naga000/app/src/main/res/layout/activity_list1xml.xml" value="0.16770833333333332" />
+        <entry key="..\:/Users/gjaischool61/Desktop/playouside/Naga000/app/src/main/res/layout/activity_list2xml.xml" value="0.1875" />
+        <entry key="..\:/Users/gjaischool61/Desktop/playouside/Naga000/app/src/main/res/layout/activity_login.xml" value="0.2" />
+        <entry key="..\:/Users/gjaischool61/Desktop/playouside/Naga000/app/src/main/res/layout/activity_main.xml" value="0.21331521739130435" />
+        <entry key="..\:/Users/gjaischool61/Desktop/playouside/Naga000/app/src/main/res/layout/activity_postscript.xml" value="0.21331521739130435" />
+        <entry key="..\:/Users/gjaischool61/Desktop/playouside/Naga000/app/src/main/res/layout/activity_time_choice_data.xml" value="0.24947916666666667" />
+        <entry key="..\:/Users/gjaischool61/Desktop/playouside/Naga000/app/src/main/res/layout/activity_todo_list_content.xml" value="0.24947916666666667" />
+        <entry key="..\:/Users/gjaischool61/Desktop/playouside/Naga000/app/src/main/res/layout/frag_a.xml" value="0.4" />
+        <entry key="..\:/Users/gjaischool61/Desktop/playouside/Naga000/app/src/main/res/layout/frag_b.xml" value="0.21331521739130435" />
+        <entry key="..\:/Users/gjaischool61/Desktop/playouside/Naga000/app/src/main/res/layout/frag_c.xml" value="0.21331521739130435" />
+        <entry key="..\:/Users/gjaischool61/Desktop/playouside/Naga000/app/src/main/res/layout/frag_d.xml" value="0.1578125" />
+        <entry key="..\:/Users/gjaischool61/Desktop/playouside/Naga000/app/src/main/res/layout/layout_chehum10.xml" value="0.10625" />
+        <entry key="..\:/Users/gjaischool61/Desktop/playouside/Naga000/app/src/main/res/layout/layout_detail.xml" value="0.2" />
+        <entry key="..\:/Users/gjaischool61/Desktop/playouside/Naga000/app/src/main/res/layout/layout_sample2.xml" value="0.10625" />
+        <entry key="..\:/Users/gjaischool61/Desktop/playouside/Naga000/app/src/main/res/layout/list1xml.xml" value="0.16770833333333332" />
+        <entry key="..\:/Users/gjaischool61/Desktop/playouside/Naga000/app/src/main/res/layout/list2.xml" value="0.2" />
+        <entry key="..\:/Users/gjaischool61/Desktop/playouside/Naga000/app/src/main/res/layout/listview_item.xml" value="0.16666666666666666" />
+        <entry key="..\:/Users/gjaischool61/Desktop/playouside/Naga000/app/src/main/res/layout/maintemxml.xml" value="0.10625" />
+        <entry key="..\:/Users/gjaischool61/Desktop/playouside/Naga000/app/src/main/res/layout/mainxmltop10.xml" value="0.21331521739130435" />
+        <entry key="..\:/Users/gjaischool61/Desktop/playouside/Naga000/app/src/main/res/layout/multi_image_item.xml" value="0.264" />
+        <entry key="..\:/Users/gjaischool61/Desktop/playouside/Naga000/app/src/main/res/layout/post_tv_data.xml" value="0.16510416666666666" />
+        <entry key="..\:/Users/gjaischool61/Desktop/playouside/Naga000/app/src/main/res/layout/postscript_content.xml" value="0.24947916666666667" />
+        <entry key="..\:/Users/gjaischool61/Desktop/playouside/Naga000/app/src/main/res/layout/review_view.xml" value="0.24583333333333332" />
+        <entry key="..\:/Users/gjaischool61/Desktop/playouside/Naga000/app/src/main/res/layout/simple_list_item_1.xml" value="0.16666666666666666" />
+        <entry key="..\:/Users/gjaischool61/Desktop/playouside/Naga000/app/src/main/res/menu/navibar.xml" value="0.22291666666666668" />
+        <entry key="..\:/Users/gjaischool61/workspace/AndroidWork/Naga0818plis/app/src/main/res/drawable-v24/ic_add.xml" value="0.2065" />
+        <entry key="..\:/Users/gjaischool61/workspace/AndroidWork/Naga0818plis/app/src/main/res/drawable-v24/ic_edit.xml" value="0.1695" />
+        <entry key="..\:/Users/gjaischool61/workspace/AndroidWork/Naga0818plis/app/src/main/res/drawable-v24/ic_launcher_foreground.xml" value="0.1835" />
+        <entry key="..\:/Users/gjaischool61/workspace/AndroidWork/Naga0818plis/app/src/main/res/drawable/gradient.xml" value="0.181" />
+        <entry key="..\:/Users/gjaischool61/workspace/AndroidWork/Naga0818plis/app/src/main/res/drawable/ic_baseline_search_24.xml" value="0.181" />
+        <entry key="..\:/Users/gjaischool61/workspace/AndroidWork/Naga0818plis/app/src/main/res/drawable/ic_launcher_background.xml" value="0.2135" />
+        <entry key="..\:/Users/gjaischool61/workspace/AndroidWork/Naga0818plis/app/src/main/res/font/into_font.xml" value="0.25625" />
+        <entry key="..\:/Users/gjaischool61/workspace/AndroidWork/Naga0818plis/app/src/main/res/font/kotra.xml" value="0.25625" />
+        <entry key="..\:/Users/gjaischool61/workspace/AndroidWork/Naga0818plis/app/src/main/res/font/yangjin.xml" value="0.25625" />
+        <entry key="..\:/Users/gjaischool61/workspace/AndroidWork/Naga0818plis/app/src/main/res/layout/activity_intro.xml" value="0.21557971014492755" />
+        <entry key="..\:/Users/gjaischool61/workspace/AndroidWork/Naga0818plis/app/src/main/res/layout/activity_join.xml" value="0.22708333333333333" />
+        <entry key="..\:/Users/gjaischool61/workspace/AndroidWork/Naga0818plis/app/src/main/res/layout/activity_list1xml.xml" value="0.21875" />
+        <entry key="..\:/Users/gjaischool61/workspace/AndroidWork/Naga0818plis/app/src/main/res/layout/activity_list2xml.xml" value="0.21105072463768115" />
+        <entry key="..\:/Users/gjaischool61/workspace/AndroidWork/Naga0818plis/app/src/main/res/layout/activity_login.xml" value="0.264" />
+        <entry key="..\:/Users/gjaischool61/workspace/AndroidWork/Naga0818plis/app/src/main/res/layout/activity_main.xml" value="0.21557971014492755" />
+        <entry key="..\:/Users/gjaischool61/workspace/AndroidWork/Naga0818plis/app/src/main/res/layout/activity_postscript.xml" value="0.16041666666666668" />
+        <entry key="..\:/Users/gjaischool61/workspace/AndroidWork/Naga0818plis/app/src/main/res/layout/activity_review_recycle.xml" value="0.24947916666666667" />
+        <entry key="..\:/Users/gjaischool61/workspace/AndroidWork/Naga0818plis/app/src/main/res/layout/activity_todo_list_content.xml" value="0.16041666666666668" />
+        <entry key="..\:/Users/gjaischool61/workspace/AndroidWork/Naga0818plis/app/src/main/res/layout/calendar_cell.xml" value="0.16041666666666668" />
+        <entry key="..\:/Users/gjaischool61/workspace/AndroidWork/Naga0818plis/app/src/main/res/layout/detail_layout.xml" value="0.21041666666666667" />
+        <entry key="..\:/Users/gjaischool61/workspace/AndroidWork/Naga0818plis/app/src/main/res/layout/do_list.xml" value="0.2115036231884058" />
+        <entry key="..\:/Users/gjaischool61/workspace/AndroidWork/Naga0818plis/app/src/main/res/layout/frag_a.xml" value="0.26322115384615385" />
+        <entry key="..\:/Users/gjaischool61/workspace/AndroidWork/Naga0818plis/app/src/main/res/layout/frag_b.xml" value="0.21557971014492755" />
+        <entry key="..\:/Users/gjaischool61/workspace/AndroidWork/Naga0818plis/app/src/main/res/layout/frag_c.xml" value="0.21557971014492755" />
+        <entry key="..\:/Users/gjaischool61/workspace/AndroidWork/Naga0818plis/app/src/main/res/layout/frag_d.xml" value="0.21557971014492755" />
+        <entry key="..\:/Users/gjaischool61/workspace/AndroidWork/Naga0818plis/app/src/main/res/layout/layout_btn_search.xml" value="0.21557971014492755" />
+        <entry key="..\:/Users/gjaischool61/workspace/AndroidWork/Naga0818plis/app/src/main/res/layout/layout_chehum10.xml" value="0.23489583333333333" />
+        <entry key="..\:/Users/gjaischool61/workspace/AndroidWork/Naga0818plis/app/src/main/res/layout/layout_detail.xml" value="0.23489583333333333" />
+        <entry key="..\:/Users/gjaischool61/workspace/AndroidWork/Naga0818plis/app/src/main/res/layout/layout_list_detail.xml" value="0.264" />
+        <entry key="..\:/Users/gjaischool61/workspace/AndroidWork/Naga0818plis/app/src/main/res/layout/list1xml.xml" value="0.21557971014492755" />
+        <entry key="..\:/Users/gjaischool61/workspace/AndroidWork/Naga0818plis/app/src/main/res/layout/list2.xml" value="0.1078125" />
+        <entry key="..\:/Users/gjaischool61/workspace/AndroidWork/Naga0818plis/app/src/main/res/layout/maintemxml.xml" value="0.24947916666666667" />
+        <entry key="..\:/Users/gjaischool61/workspace/AndroidWork/Naga0818plis/app/src/main/res/layout/mainxml.xml" value="0.21510416666666668" />
+        <entry key="..\:/Users/gjaischool61/workspace/AndroidWork/Naga0818plis/app/src/main/res/layout/mainxmltop10.xml" value="0.23489583333333333" />
+        <entry key="..\:/Users/gjaischool61/workspace/AndroidWork/Naga0818plis/app/src/main/res/layout/review_view.xml" value="0.2115036231884058" />
+        <entry key="..\:/Users/gjaischool61/workspace/AndroidWork/Naga0818plis/app/src/main/res/menu/navibar.xml" value="0.2296875" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="Android Studio default JDK" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>

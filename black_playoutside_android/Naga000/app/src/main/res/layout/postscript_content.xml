@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    android:id="@+id/posrcript"
+    android:layout_width="match_parent"
+    android:layout_height="350dp"
+    android:orientation="vertical"
+    android:background="#F8EFE6"
+    android:layout_marginTop="10dp"
+    android:layout_marginLeft="10dp"
+    android:layout_marginRight="10dp">
+
+    <androidx.cardview.widget.CardView
+        android:layout_width="match_parent"
+        android:layout_height="363dp"
+        app:cardElevation="15dp"
+        app:cardBackgroundColor="#F8EFE6"
+        >
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="52dp"
+            android:orientation="horizontal"
+            android:background="#F8EFE6">
+
+            <TextView
+                android:id="@+id/tv_pName"
+                android:layout_width="251dp"
+                android:layout_height="34dp"
+                android:layout_gravity="center"
+                android:layout_marginLeft="15dp"
+                android:layout_marginRight="15dp"
+                android:layout_weight="2"
+                android:fontFamily="@font/kotra"
+                android:gravity="center"
+                android:text="체험활동 장소"
+                android:textAlignment="center"
+                android:textSize="16dp" />
+
+            <Button
+                android:id="@+id/btn_pDetail"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_gravity="center"
+                android:layout_marginRight="10dp"
+                android:layout_weight="1"
+                android:backgroundTint="#fd9f9d"
+                android:fontFamily="@font/kotra"
+                android:gravity="center"
+                android:text="상세정보"
+                android:textColor="#000000"
+                android:textSize="14dp" />
+
+        </LinearLayout>
+
+        <androidx.recyclerview.widget.RecyclerView
+            android:id="@+id/re_img"
+            android:layout_width="match_parent"
+            android:layout_height="110dp"
+            android:layout_marginTop="50dp"
+            android:orientation="horizontal"
+            android:shape="rectangle"
+            android:fontFamily="@font/kotra"
+            app:layout_constraintEnd_toEndOf="parent"
+            app:layout_constraintHorizontal_bias="0.0"
+            app:layout_constraintStart_toStartOf="parent"
+            android:background="#F8EFE6"/>
+
+        <TextView
+            android:id="@+id/tv_content"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="170dp"
+            android:layout_marginRight="10dp"
+            android:layout_marginLeft="10dp"
+            android:background="@drawable/pinkline_btn_background"
+            android:fontFamily="@font/kotra"
+            android:gravity="center"
+            android:text="내용 보여주기" />
+
+    </androidx.cardview.widget.CardView>
+
+</LinearLayout>

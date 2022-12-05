@@ -1,0 +1,104 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:layout_gravity="center"
+    android:background="#F8EFE6"
+    android:foregroundGravity="center"
+    android:gravity="center"
+    android:orientation="vertical"
+    app:layout_anchorGravity="center">
+
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="241dp"
+        android:layout_gravity="center"
+        android:foregroundGravity="center"
+        android:gravity="center"
+        android:orientation="horizontal"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintStart_toStartOf="parent">
+
+        <TextView
+            android:id="@+id/tv_na"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_gravity="center"
+            android:layout_marginLeft="10dp"
+            android:layout_marginRight="10dp"
+            android:fillAfter="true"
+            android:fontFamily="@font/changwon_dangam_asac_bold"
+            android:foregroundGravity="center"
+            android:gravity="center"
+            android:text="나"
+            android:textColor="#874DF1"
+            android:textSize="50dp" />
+
+        <TextView
+            android:id="@+id/tv_ga"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_gravity="center"
+            android:layout_marginLeft="10dp"
+            android:layout_marginRight="10dp"
+            android:fontFamily="@font/changwon_dangam_asac_bold"
+            android:foregroundGravity="center"
+            android:gravity="center"
+            android:text="가"
+            android:textColor="#FF5722"
+            android:textSize="50dp" />
+
+        <TextView
+            android:id="@+id/tv_nol"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_gravity="center"
+            android:layout_marginLeft="10dp"
+            android:layout_marginRight="10dp"
+            android:fontFamily="@font/changwon_dangam_asac_bold"
+            android:foregroundGravity="center"
+            android:gravity="center"
+            android:text="놀"
+            android:textColor="#FFC107"
+            android:textSize="50dp" />
+
+        <TextView
+            android:id="@+id/tv_ja"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_gravity="center"
+            android:layout_marginLeft="10dp"
+            android:layout_marginRight="10dp"
+            android:fontFamily="@font/changwon_dangam_asac_bold"
+            android:foregroundGravity="center"
+            android:gravity="center"
+            android:text="자"
+            android:textColor="#4CAF50"
+            android:textSize="50dp" />
+
+    </LinearLayout>
+
+<!--    <ImageView-->
+<!--        android:id="@+id/img_intro"-->
+<!--        android:layout_width="match_parent"-->
+<!--        android:layout_height="346dp"-->
+<!--        app:layout_constraintEnd_toEndOf="parent"-->
+<!--        app:layout_constraintStart_toStartOf="parent"-->
+<!--        app:srcCompat="@drawable/img_kids" />-->
+
+    <com.airbnb.lottie.LottieAnimationView
+        android:id="@+id/lottie"
+        android:layout_width="match_parent"
+        android:layout_height="346dp"
+        android:scaleType="centerCrop"
+        app:lottie_rawRes="@raw/loading_lottie"
+        app:lottie_loop="true"
+        app:lottie_autoPlay="true"
+        />
+
+
+
+</LinearLayout>

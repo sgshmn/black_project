@@ -1,0 +1,78 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    package="com.example.naga0818" >
+    <!-- 인터넷 연결 -->
+    <uses-permission android:name="android.permission.INTERNET" /> <!-- 위치사용권한 -->
+    <uses-permission android:name="android.permission.ACCESS_FINE_LOCATION" />
+    <uses-permission android:name="android.permission.ACCESS_COARSE_LOCATION" />
+    <uses-permission android:name="android.permission.WRITE_EXTERNAL_STORAGE" />
+    <uses-permission android:name="android.permission.READ_EXTERNAL_STORAGE" />
+
+    <application
+        android:allowBackup="true"
+        android:dataExtractionRules="@xml/data_extraction_rules"
+        android:fullBackupContent="@xml/backup_rules"
+        android:icon="@mipmap/ic_launcher"
+        android:label="@string/app_name"
+        android:roundIcon="@mipmap/ic_launcher_round"
+        android:supportsRtl="true"
+        android:theme="@style/Theme.Naga0818"
+        android:usesCleartextTraffic="true"
+        tools:targetApi="31" >
+        <activity
+            android:name=".TodoList2"
+            android:exported="false" />
+        <activity
+            android:name=".TimeChoiceData"
+            android:exported="false" />
+        <activity
+            android:name=".ChangeProfile"
+            android:exported="false" />
+        <activity
+            android:name=".intro"
+            android:exported="true" >
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+        </activity>
+        <activity
+            android:name=".MainActivity"
+            android:exported="true" />
+        <activity
+            android:name=".Login"
+            android:exported="true" />
+        <activity
+            android:name=".Join"
+            android:exported="true" />
+        <activity
+            android:name=".List1"
+            android:exported="true" />
+        <activity
+            android:name=".List2_theme"
+            android:exported="true" />
+        <activity
+            android:name=".ListDetail"
+            android:exported="true" />
+        <activity
+            android:name=".TodoList"
+            android:exported="false" />
+        <activity
+            android:name=".TodoList_content"
+            android:exported="true" />
+        <activity
+            android:name=".List2_prog_seq"
+            android:exported="true" />
+        <activity
+            android:name=".Postscript"
+            android:exported="true" /> <!-- api 아이디연결 -->
+        <meta-data
+            android:name="com.naver.maps.map.CLIENT_ID"
+            android:value="2naxe283qs" /> <!-- receiver를 동작시키기 위해서 intent filter와 receiver를 추가 -->
+        <!-- 알림 Receiver 연결 -->
+        <receiver android:name=".AlertReceiver" />
+    </application>
+
+</manifest>

@@ -1,0 +1,22 @@
+<resources>
+    <string name="app_name">Naga0818</string>
+    <string name="app">Calendar</string>
+    <string name="일">일</string>
+    <string name="월">월</string>
+    <string name="화">화</string>
+    <string name="수">수</string>
+    <string name="목">목</string>
+    <string name="금">금</string>
+    <string name="토">토</string>
+
+    <string name="message1"><u>●예약정보</u></string>
+    <string name="time"><u>●운영시간</u></string>
+    <string name="price"><u>●이용요금</u></string>
+    <string name="age"><u>●이용대상</u></string>
+    <string name="message3"><u>●상세정보</u></string>
+    <string name="message4"><u>●편의정보</u></string>
+    <string name="message5"><u>●주소</u></string>
+    <string name="message6"><u>●리뷰</u></string>
+
+
+</resources>
